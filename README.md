@@ -9,7 +9,7 @@
 2. 開啟終端機建立資料夾或到指定存放位置
 3. 在該資料夾位置，將專案 clone 到本地
     ```
-    git clone https://github.com/JiangShuuu/resturantList.git
+    git clone https://github.com/JiangShuuu/2-3A19express.git
     ```
 4. 透過終端機進入資料夾位置後，輸入：
     ```
