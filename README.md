@@ -1,5 +1,5 @@
 # 2-3A19express
-![alt text](https://github.com/JiangShuuu/2-3A19express/blob/main/pagedemo.jpg)
+![alt text](https://github.com/JiangShuuu/2-3A19express/blob/main/pagedemo.gif)
 
 ## 介紹
 可以根據動態路由切換頁面
